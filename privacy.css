@@ -74,6 +74,9 @@ a:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; border-r
 .app-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.1rem; margin: 0; padding: 0; list-style: none; }
 .card { --accent: #1f6a9d; border-radius: 1rem; }
 .card.tire-tornado-2 { --accent: #a54423; }
+.card.flood-snow-weather-globe { --accent: #0e7893; }
+.card.everyday-canvas { --accent: #6553b5; }
+.card.traffic-camera-globe { --accent: #c06525; }
 .card a {
   display: flex;
   height: 100%;
